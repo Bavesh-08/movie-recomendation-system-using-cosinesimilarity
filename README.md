@@ -446,18 +446,6 @@ copies or substantial portions of the Software.
 
 ---
 
-## 👥 Authors & Acknowledgments
-
-- **Your Name** - *Initial work* - [GitHub](https://github.com/yourusername)
-- Dataset source: [TMDB](https://www.themoviedb.org/)
-
----
-
-## 📮 Contact & Support
-
-- **Issues**: [Open an issue](https://github.com/yourusername/movie-recommendation-system/issues)
-- **Discussions**: [Start a discussion](https://github.com/yourusername/movie-recommendation-system/discussions)
-- **Email**: your.email@example.com
 
 ---
 
